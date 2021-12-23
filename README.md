@@ -19,6 +19,5 @@
 # Dataset
 
 * I have used the dataset available on kaggle (https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
-* It has 198 images as training set and 58 images as test sets.
 * The dataset folder has been divided into training and test set folders which is further divided into yes or no folders.
 
